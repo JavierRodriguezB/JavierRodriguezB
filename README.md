@@ -12,7 +12,7 @@ Ingeniero de Sistemas con más de 5 años construyendo aplicaciones web. Trabajo
 📍 Buenos Aires, Argentina · Remoto o híbrido
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,nodejs,python,supabase,postgres,mysql,tailwind,threejs,docker,nginx,linux,vercel,git&perline=16" alt="React, Next.js, Angular, TypeScript, Node.js, Python, Supabase, PostgreSQL, MySQL, Tailwind, Three.js, Docker, Nginx, Linux, Vercel, Git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,nodejs,python,supabase,postgres,mysql,tailwind,threejs,docker,nginx,linux,vercel,git&perline=16" alt="React, Next.js, Angular, TypeScript, Node.js, Python, Supabase, PostgreSQL, MySQL, Tailwind, Three.js, Docker, Linux, Vercel, Git" />
 </p>
 
 ## Proyectos destacados
